@@ -19,7 +19,7 @@ Boostrap Build and customize with Sass, utilize prebuilt grid system and compone
 
 #### Tablet
 
-![tablet](https://user-images.githubusercontent.com/117309987/207154081-ae3dc72b-0a73-4c89-b550-b8111f6becbf.png)
+![tablet](https://user-images.githubusercontent.com/117309987/207155119-e4813502-2f7f-4589-ac4a-dafdb1fda7b7.png)
 
 
 #### Mobile
